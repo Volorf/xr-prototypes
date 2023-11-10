@@ -24,4 +24,6 @@ Prototyped a numeric keypad with eye-tracking and hand-tracking inputs similar t
 
 It feels very natural and familiar. We already use the same principles for regular keyboard-based, non-blind typing. First, you visually allocate a target, and then your hand confirms an intended action. But the eye-tracking version is less laborious since this hand confirmation is remote, and you don't need to "physically" interact with the keyboard. 
 
+[Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/154_numeric_keyboard_with_eye_tracking.zip)
+
 [Learn more](https://twitter.com/Volorf/status/1721833148957241494)

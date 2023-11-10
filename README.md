@@ -12,7 +12,7 @@ Press the `Add Build` button and select an app on your disk.
 
 
 ### 2. Launch the app
-Open the context menu ("tree dots") and hit the `Launch App` button.
+Open the context menu ("three dots") and hit the `Launch App` button.
 
 <img src="Images/launch_build.png" width="800px">
 

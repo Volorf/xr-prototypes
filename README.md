@@ -17,3 +17,11 @@ Open the context menu ("tree dots") and hit the `Launch App` button.
 <img src="Images/launch_build.png" width="800px">
 
 ## #154 Numeric Keyboard with Eye Tracking
+
+<img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="800px">
+
+Prototyped a numeric keypad with eye-tracking and hand-tracking inputs similar to what we saw on Apple's Vision Pro demo. I used Oculus Integration and ran it on Quest Pro (it's the only Quest that supports eye-tracking).
+
+It feels very natural and familiar. We already use the same principles for regular keyboard-based, non-blind typing. First, you visually allocate a target, and then your hand confirms an intended action. But the eye-tracking version is less laborious since this hand confirmation is remote, and you don't need to "physically" interact with the keyboard. 
+
+[Learn more](https://twitter.com/Volorf/status/1721833148957241494)

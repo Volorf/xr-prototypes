@@ -30,6 +30,24 @@ It feels very natural and familiar. We already use the same principles for regul
 
 ## #156 Keypad with Eye Tracking
 
-[Download APK]()
+<img src="Images/156_keypad_with_eye_tracking.gif" width="800px">
+
+I made a prototype inspired by a telephone keypad. It uses eye-tracking to hover over a key and finger pinches to define which letter you will type. 
+
+As you can see, each key encodes up to 4 signs (with SYM mode, it's 8) in a single mode:
+
+**Pinch Invocation**:
+1. `Index` -> Top Left ->	"A"
+2. `Middle` -> Top Right -> "B"
+3. `Ring` -> Bottom Right -> "C"
+4. `Pinky` -> Bottom Left -> "1"
+
+**Observations**:
+- Sometimes, during typing, I accidentally triggered the system menu. Adding visual signifiers to the virtual hand to specify a dedicated typing mode would help. It would visually guide users to stay in the mode. Or, OS holders might add the signifiers to the mode where you invoke system commands. The point is it should be easy for users to recognize when they switch from an app interaction layer to a system one.
+- The current Computer Vision-based hand tracking is not reliable enough. There are a lot of false positives for detecting Ring/Pinky Pinches. A dedicated hand-tracking device would improve the experience. As a quick hack — since there are no significant issues with Index/Middle pinches recognition — to type the left side symbols ("A 1" column), you use index/middle pinches on your left hand, and for the right side ones ("B C" column), you use your right hand respectively.
+
+Overall, it's a very promising approach that massively reduces physical fatigue for spatial typing. With dedicated, accurate hand-tracking devices, input systems like this will make spatial interactions truly approachable.
+
+[Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/156_keypad_with_eye_tracking.zip)
 
 [Learn more]()

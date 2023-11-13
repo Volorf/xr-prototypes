@@ -2,6 +2,9 @@
 
 A collection of my XR prototypes as apk files. All apk files are in the `Builds` folder.
 
+- [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
+- [Keypad with Eye Tracking](#keypad-with-eye-tracking)
+
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
 
@@ -16,7 +19,7 @@ Open the context menu ("three dots") and hit the `Launch App` button.
 
 <img src="Images/launch_build.png" width="800px">
 
-## #154 Numeric Keyboard with Eye Tracking
+## Numeric Keyboard with Eye Tracking
 
 <img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="800px">
 
@@ -28,7 +31,7 @@ It feels very natural and familiar. We already use the same principles for regul
 
 [Learn more](https://twitter.com/Volorf/status/1721833148957241494)
 
-## #156 Keypad with Eye Tracking
+## Keypad with Eye Tracking
 
 <img src="Images/156_keypad_with_eye_tracking.gif" width="800px">
 
@@ -52,4 +55,4 @@ Overall, it's a very promising approach that massively reduces physical fatigue 
 
 [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/156_keypad_with_eye_tracking.zip)
 
-[Learn more]()
+[Learn more](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-ar-activity-7129774599726067712-bfNc)

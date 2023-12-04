@@ -31,7 +31,7 @@ It feels very natural and familiar. We already use the same principles for regul
 
 [Learn more](https://twitter.com/Volorf/status/1721833148957241494)
 
-## Keypad with Eye Tracking
+## Spatial Keypad with Eye and Hand Tracking
 
 <img src="Images/156_keypad_with_eye_tracking.gif" width="800px">
 
@@ -40,10 +40,10 @@ I made a prototype inspired by a telephone keypad. It uses eye-tracking to hover
 As you can see, each key encodes up to 4 signs (with SYM mode, it's 8) in a single mode:
 
 **Pinch Invocation**:
-1. `Index` -> Top Left ->	"A"
-2. `Middle` -> Top Right -> "B"
-3. `Ring` -> Bottom Right -> "C"
-4. `Pinky` -> Bottom Left -> "1"
+1. `Index`  -> Top Left     -> "A"
+2. `Middle` -> Top Right    -> "B"
+3. `Ring`   -> Bottom Right -> "C"
+4. `Pinky`  -> Bottom Left  -> "1"
 
 **Observations**:
 - Sometimes, during typing, I accidentally triggered the system menu. Adding visual signifiers to the virtual hand to specify a dedicated typing mode would help. It would visually guide users to stay in the mode. Or, OS holders might add the signifiers to the mode where you invoke system commands. The point is it should be easy for users to recognize when they switch from an app interaction layer to a system one.
@@ -58,7 +58,25 @@ Overall, it's a very promising approach that massively reduces physical fatigue 
 [Learn more](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-ar-activity-7129774599726067712-bfNc)
 
 
-## Keypad with Eye Tracking 2
+## Spatial Keypad with Eye and Hand Tracking 2
+
+Prototyped another variation of the previous keypad concept with eye-tracking. Quest Pro didn't track Ring/Pinky pinches accurately, so I used both hands to leverage only the Index and Middle pinches for decoding key signs.
+
+**Pinch Invokation Map**:
+1. `Left Index`     -> Top Left     -> "A"
+2. `Left Middle`    -> Bottom Left  -> "1"
+3. `Right Index`    -> Top Right    -> "B"
+4. `Right Middle`   -> Bottom Right -> "C"
+
+As you can see, the left hand decodes the left side of a key's signs, and the right hand does the right side, retrospectively. The mapping feels natural, and there are no significant issues with detecting the Index/Middle pinches. The typing experience is comfortable and fairly quick, with minimal physical strain. You use your eyes to select and your hands to 'click' - either resting on a table or on your lap.
+
+There's room for improvement in the layout. One might arrange the most frequently used letters near the keyboard's center to minimize eye movement. It would be especially beneficial for professionals who prioritize speed and efficiency. Learning a new layout would pay off.
+
+However, a layout with a sequential order of signs is more practical for everyday users. Since most people are familiar with the alphabetical order and basic counting, this knowledge will help them locate the desired letter easily.
+
+The sorted order of the signs on the keypad enables users to leverage a binary search strategy to find a specific sign. This method has an `O(log n)` complexity, which is more efficient than the `O(n)` complexity for unsorted sequences. Therefore, a layout with a sorted sequence of signs is more effective for the majority.
+
+By the way, this point above is one of the reasons why there is no sense in using QWERTY for spatial inputs like this: 1. You can't leverage your muscle memory because of the lack of haptic feedback and the wrong posture; 2. It's an arbitrary unsorted sequence from the common sense perspective.
 
 [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/156_keypad_with_eye_tracking_2.zip)
 

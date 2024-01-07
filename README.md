@@ -86,13 +86,15 @@ By the way, this point above is one of the reasons why there is no sense in usin
 
 ## Finger Menu 2
 
+<img src="Images/162_finger_menu_horizaontal_2.gif" width="800px">
+
 Prototyped another version of my earlier spatial finger menu concept. In this iteration, the menu remains stationary once you start pinching.
 
 Keep these points in mind with this design:
 1. A short trigger distance for state switching can lead to false positives. Be cautious with the UI's size and layout - ideally, the triggering distance should align with the spacing between elements for a smoother transition. In the previous design, I used an animated offset that followed your movements, which masked the longer triggering distance and made it more tolerant of hand-tracking errors and inaccuracies. If false positives become an issue, consider reverting to that first version.
 2. Use the fixed mode only within the specific range needed to trigger state changes. Once you hit the limit, switch back to the following mode. This approach prevents the violation of the proximity principle, where the user input is too distant from an interactive element. Additionally, it ensures the interaction remains fluid and natural, freezing the UI only when necessary.
 
-- [Download APK]()
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/162_boxelxr_finger_menu_horizontal_static.zip)
 - [Previous concept](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_spatialdesign-spatialui-spatialux-activity-7140673578609307649-M42H) 
 - [Discussion]()
 - [BoxelXR (Spatial Voxel Editor)](https://www.meta.com/en-gb/experiences/5815420721867244/)

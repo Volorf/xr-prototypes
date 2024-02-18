@@ -6,8 +6,8 @@ A collection of my XR prototypes as apk files. All apk files are in the `Builds`
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)
-- [Finger Menu Horizontal](#finger-menu-horizontal)
-- [Finger Menu Vertical](#finger-menu-vertical)
+- [Horizontal Finger Menu](#horizontal-finger-menu)
+- [Vertical Finger Menu](#vertical-finger-menu)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -86,7 +86,7 @@ By the way, this point above is one of the reasons why there is no sense in usin
 - [Learn more](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-ar-activity-7137399767503925249-bBLH)
 
 
-## Finger Menu Horizontal
+## Horizontal Finger Menu 
 
 <img src="Images/162_finger_menu_horizaontal_2.gif" width="800px">
 
@@ -101,7 +101,7 @@ Keep these points in mind with this design:
 - [BoxelXR (Spatial Voxel Editor)](https://www.meta.com/en-gb/experiences/5815420721867244/)
 
 
-## Finger Menu Vertical
+## Vertical Finger Menu 
 
 <img src="Images/164_finger_menu_vertical.gif" width="800px">
 

@@ -105,5 +105,13 @@ Keep these points in mind with this design:
 
 <img src="Images/164_finger_menu_vertical.gif" width="800px">
 
+Here is another iteration of the finger toolbar for my Spatial Voxel Editor — Boxel.
+
+Right now, the app completely relies on controllers. Haptic feedback and low latency make the interactions easy to trigger and fast to execute. Plus, you can develop muscle memory, which increases the interaction speed to the thought level.
+
+My plan is to rethink the whole approach and make the editor hand-tracking first while having controllers as an additional mode for expert users (which might also lead to the creation of a separate app if it turns out that there are many compromises in terms of UX I have to do).
+
+I have already tried the X-axis-based approach. This one leverages the Y. And, as you might guess, my next experiment will use the Z axis.
+
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/164_boxelxr_finger_menu_vertical.zip)
-- [Learn More]()
+- [Learn More](https://twitter.com/Volorf/status/1760195472969343437)

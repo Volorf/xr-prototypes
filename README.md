@@ -8,6 +8,7 @@ A collection of my XR prototypes as apk files. All apk files are in the `Builds`
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)
 - [Horizontal Finger Menu](#horizontal-finger-menu)
 - [Vertical Finger Menu](#vertical-finger-menu)
+- [Depth Finger Menu](#depth-finger-menu)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -115,3 +116,8 @@ I have already tried the X-axis-based approach. This one leverages the Y. And, a
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/164_boxelxr_finger_menu_vertical.zip)
 - [Learn More](https://twitter.com/Volorf/status/1760195472969343437)
+
+
+## Depth Finger Menu 
+
+<img src="Images/173_finger_menu_depth.gif" width="800px">

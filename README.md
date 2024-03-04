@@ -122,7 +122,7 @@ I have already tried the X-axis-based approach. This one leverages the Y. And, a
 
 <img src="Images/173_finger_menu_depth.gif" width="800px">
 
-This time, I explored the finger menu with a depth-based layout. Felt fun. Microinteractions/UI motion helped to compensate for the lack of haptic feedback by providing rich visual clues and reinforcing the user's intentions (all these subtle micro-movements).
+Explored the finger menu with a depth-based layout. Felt fun. Microinteractions/UI motion helped to compensate for the lack of haptic feedback by providing rich visual clues and reinforcing the user's intentions (all these subtle micro-movements).
 
 Based on the prototype, here are a few things to consider when you use this interaction pattern:
 

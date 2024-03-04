@@ -1,7 +1,6 @@
 # XR Prototypes
 
-A collection of my XR prototypes as apk files. All apk files are in the `Builds` folder.
-
+A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`, `Quest 3`, `Qeust Pro`]. All apk files are in the `Builds` folder.
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)

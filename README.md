@@ -6,6 +6,7 @@ A collection of my XR prototypes as apk files. All apk files are in the `Builds`
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)
+- [Palm Menu](#palm-menu)
 - [Fingertips Menu](#fingertips-menu)
 - [Horizontal Finger Menu](#horizontal-finger-menu)
 - [Vertical Finger Menu](#vertical-finger-menu)
@@ -86,6 +87,18 @@ By the way, this point above is one of the reasons why there is no sense in usin
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/156_keypad_with_eye_tracking_2.zip)
 - [Learn more](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-ar-activity-7137399767503925249-bBLH)
+
+
+## Palm Menu
+
+<img src="Images/150_palm_menu.gif" width="800px">
+
+The simplest trick to improve the accessibility of floating hand-attached UI panels for spatial interactions is to smooth their movement. It allows us to stabilize them and mitigate a hand tremor due to hand-tracking imperfection and/or physiological condition.
+
+Interestingly, the visual stabilization helps reduce the physical tremor itself. I guess it normalizes the hand muscles/brain feedback loop when you target the interactables.
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/150_palm_menu.zip)
+- [Learn more](https://twitter.com/Volorf/status/1709136040752038090)
 
 
 ## Fingertips Menu

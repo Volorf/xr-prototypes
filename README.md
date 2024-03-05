@@ -7,6 +7,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)
 - [Palm Menu](#palm-menu)
 - [Fingertips Menu](#fingertips-menu)
+- [Spatial Bouncing DVDs](#spatial-bouncing-dvds)
 - [Horizontal Finger Menu](#horizontal-finger-menu)
 - [Vertical Finger Menu](#vertical-finger-menu)
 - [Depth Finger Menu](#depth-finger-menu)
@@ -125,6 +126,15 @@ So, it's a very powerful pattern but use it wisely!
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/150_fingertip_menu.zip)
 - [Learn More](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-interactiondesign-activity-7122512743974191104-ePy-?utm_source=share&utm_medium=member_desktop)
 
+
+## Spatial Bouncing DVDs
+
+<img src="Images/161_spatial_bouncing_dvds.gif" width="800px">
+
+Everything we love about the Bouncing DVDs but in XR.
+
+- [Download APK]()
+- [Learn more](https://twitter.com/Volorf/status/1738205388284043436)
 
 ## Horizontal Finger Menu 
 

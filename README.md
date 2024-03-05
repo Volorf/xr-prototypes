@@ -131,7 +131,7 @@ So, it's a very powerful pattern but use it wisely!
 
 <img src="Images/161_spatial_bouncing_dvds.gif" width="800px">
 
-Everything we love about the Bouncing DVDs but in XR.
+Bring Bouncing DVDs to your home.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/161_spatial_bouncing_dvds.zip)
 - [Learn more](https://twitter.com/Volorf/status/1738205388284043436)

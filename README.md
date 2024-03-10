@@ -132,14 +132,16 @@ So, it's a very powerful pattern but use it wisely!
 
 <img src="Images/174_spatial_arrows.gif" width="800px">
 
-- [Download APK]()
+Best of the screen-based UI design but with immersive tech.
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/174_spatial_arrows.zip)
 - [Learn More]()
 
 ## Spatial Bouncing DVDs
 
 <img src="Images/161_spatial_bouncing_dvds.gif" width="800px">
 
-Bring Bouncing DVDs to your home.
+Bring Bouncing DVDs home.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/161_spatial_bouncing_dvds.zip)
 - [Learn more](https://twitter.com/Volorf/status/1738205388284043436)

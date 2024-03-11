@@ -135,7 +135,7 @@ So, it's a very powerful pattern but use it wisely!
 Best of the screen-based UI design but with immersive tech.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/174_spatial_arrows.zip)
-- [Learn More]()
+- [Learn More](https://twitter.com/Volorf/status/1767101714685898798)
 
 ## Spatial Bouncing DVDs
 

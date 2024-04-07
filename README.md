@@ -12,6 +12,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Horizontal Finger Menu](#horizontal-finger-menu)
 - [Vertical Finger Menu](#vertical-finger-menu)
 - [Depth Finger Menu](#depth-finger-menu)
+- [Circular Finger Menu](#circular-finger-menu)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -189,6 +190,14 @@ Based on the prototype, here are a few things to consider when you use this inte
 1. Perspective visual distortion. It might take more time to recognize visually distorted signs when they are arranged by depth. It's a good idea to use well-known sign sequences where the current selected element gives you a hint about the previous and next ones. A user should have an embedded knowledge of how the elements in the menu are sorted. A number selector might work well with it. [Like this](https://dribbble.com/shots/18072951-VR-Slider-Prototype-Hand-Tracking-Direct-Manipulation).
 
 2. Low range of hand movement in stationary mode. Because you need to keep visual contact with the UI, the useful range of possible hand movement is very limited. You must position your hand in front of your eyes, maintaining a comfortable distance. It restricts the number of items you can have on the menu. Plus, the trigger distance (30-40mm) also reduces the amount of menu elements you can use. Two or three items work the best (four is max).
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/173_boxelxr_finger_menu_depth.zip)
+- [Learn More](https://twitter.com/Volorf/status/1764565204350775468)
+
+
+## Circular Finger Menu
+
+<img src="Images/178_spatial_circular_finger_menu.gif" width="800px">
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/173_boxelxr_finger_menu_depth.zip)
 - [Learn More](https://twitter.com/Volorf/status/1764565204350775468)

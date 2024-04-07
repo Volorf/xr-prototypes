@@ -199,5 +199,5 @@ Based on the prototype, here are a few things to consider when you use this inte
 
 <img src="Images/178_spatial_circular_finger_menu.gif" width="800px">
 
-- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/173_boxelxr_finger_menu_depth.zip)
-- [Learn More](https://twitter.com/Volorf/status/1764565204350775468)
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/178_spatial_circular_menu.zip)
+- [Learn More]()

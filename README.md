@@ -205,7 +205,7 @@ Notes:
 
 1. It works great with four elements, but it's hard to scale for a higher number;
 
-2. The selection interaction is forgiving for spatial positioning errors. It's because a 3D hand span is interpreted through a 1D angle range (a 1D subspace in the polar coordinate system of 2D projection space, which is a subspace of 3D space of the experience, respectively). It prevents false positives and makes it easy for users to execute. Precise muscle coordination is not required, either. Design tip: lower the dimensionality of your interaction to reduce cognitive loads and make it more accessible.
+2. The selection interaction is forgiving for spatial positioning errors. This is because a 3D hand span is interpreted through a 1D angle range (a 1D subspace in the polar coordinate system of 2D projection space, which is a subspace of the 3D space of the experience, respectively). It prevents false positives and makes it easy for users to execute. Precise muscle coordination is not required, either. Design tip: lower the dimensionality of your interaction to reduce cognitive loads and make it more accessible.
 
 3. Using depth-based animations to show different UI states is a great way to leverage the third dimension and add something interesting to the experience. But be careful. When the UI faces a user's face, the contrast in the motion might be low, so use it only as an additional layer. In this prototype, color coding is the primary way to mark changes in a UI state.
 

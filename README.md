@@ -211,4 +211,4 @@ Notes:
 
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/178_spatial_circular_menu.zip)
-- [Learn More]()
+- [Learn More](https://twitter.com/Volorf/status/1777266988110205433)

@@ -2,7 +2,7 @@
 
 A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`, `Quest 3`, `Qeust Pro`]. All apk files are in the `Builds` folder.
 
-| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="200px" /><br>Numeric Keyboard with Eye Tracking</a> | <a href="#keypad-with-eye-and-hand-tracking"><img src="Images/156_keypad_with_eye_tracking.gif" width="200px" /><br>Keypad with Eye and Hand Tracking</a> | <a href="#keypad-with-eye-and-hand-tracking-2"><img src="Images/156_keypad_with_eye_tracking_2.gif" width="800px" width="200px" /><br>Keypad with Eye and Hand Tracking 2</a> | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="800px" width="200px" /><br>Palm Menu</a> |
+| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="200px" /></a> | <a href="#keypad-with-eye-and-hand-tracking"><img src="Images/156_keypad_with_eye_tracking.gif" width="200px" /></a> | <a href="#keypad-with-eye-and-hand-tracking-2"><img src="Images/156_keypad_with_eye_tracking_2.gif" width="800px" width="200px" /></a> | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="800px" width="200px" /> |
 | --- | --- | --- | --- |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)

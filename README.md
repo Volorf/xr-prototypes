@@ -2,6 +2,13 @@
 
 A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`, `Quest 3`, `Qeust Pro`]. All apk files are in the `Builds` folder.
 
+| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif?raw=true" width="128"/> 
+Numeric Keyboard with Eye Tracking </a> 
+| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif?raw=true" width="128"/>Numeric Keyboard with Eye Tracking</a> | <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif?raw=true" width="128"/>
+Numeric Keyboard with Eye Tracking</a> |
+
+|-|-|-|
+
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)

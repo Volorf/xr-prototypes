@@ -7,7 +7,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | - | - | - |
 | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="240px" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="240px" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="240px" /> |
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
-| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-finger-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | |
+| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | |
 
 
 
@@ -21,7 +21,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Horizontal Finger Menu](#horizontal-finger-menu)
 - [Vertical Finger Menu](#vertical-finger-menu)
 - [Depth Finger Menu](#depth-finger-menu)
-- [Circular Finger Menu](#circular-finger-menu)
+- [Circular Menu](#circular-menu)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -204,7 +204,7 @@ Based on the prototype, here are a few things to consider when you use this inte
 - [Learn More](https://twitter.com/Volorf/status/1764565204350775468)
 
 
-## Circular Finger Menu
+## Circular Menu
 
 <img src="Images/178_spatial_circular_finger_menu.gif" width="800px">
 

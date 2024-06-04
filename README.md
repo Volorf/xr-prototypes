@@ -7,7 +7,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | - | - | - |
 | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="240px" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="240px" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="240px" /> |
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
-| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | |
+| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> |
 
 
 
@@ -22,6 +22,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Vertical Finger Menu](#vertical-finger-menu)
 - [Depth Finger Menu](#depth-finger-menu)
 - [Circular Menu](#circular-menu)
+- [Circular Menu 2](#circular-menu-2)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -221,3 +222,18 @@ Notes:
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/178_spatial_circular_menu.zip)
 - [Learn More](https://twitter.com/Volorf/status/1777266988110205433)
+
+## Circular Menu 2
+
+<img src="Images/183_spatial_circular_menu_2.gif" width="800px">
+
+Redesigned the previous prototype with visual mechanics inspired by Blender. 
+
+The circular selection interaction pattern is a great way to enhance accessibility and improve accuracy by restricting item selection to a single dimension and, therefore, reducing noise in user input.
+
+For a circular menu, one may describe spatial transformations using polar coordinates components: Radius and Angle. I used Radius to set selection availability and Angle to define the selected item.
+
+Plus, this particular pattern allows you to expose the names of the items, which might be helpful in cases when the functions of the items are not self-obvious.
+
+- [Download APK]()
+- [Learn More]()

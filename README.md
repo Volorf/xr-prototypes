@@ -236,4 +236,4 @@ For a circular menu, one may describe spatial transformations using polar coordi
 Plus, this particular pattern allows you to expose the names of the items, which might be helpful in cases when the functions of the items are not self-obvious.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/183_spatial_circular_menu_2.zip)
-- [Learn More](https://x.com/Volorf)
+- [Learn More](https://x.com/Volorf/status/1797916340684022157)

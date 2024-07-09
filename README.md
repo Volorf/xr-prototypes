@@ -7,7 +7,8 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | - | - | - |
 | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="240px" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="240px" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="240px" /> |
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
-| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> |
+| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
+| <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | | |
 
 
 
@@ -23,6 +24,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Depth Finger Menu](#depth-finger-menu)
 - [Circular Menu](#circular-menu)
 - [Circular Menu 2](#circular-menu-2)
+- [Pie Menu 3](#pie-menu-3)
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -215,13 +217,13 @@ Notes:
 
 1. It works great with four elements, but it's hard to scale for a higher number;
 
-2. The selection interaction is forgiving for spatial positioning errors. This is because a 3D hand span is interpreted through a 1D angle range (a 1D subspace in the polar coordinate system of 2D projection space, which is a subspace of the 3D space of the experience, respectively). It prevents false positives and makes it easy for users to execute. Precise muscle coordination is not required, either. Design tip: lower the dimensionality of your interaction to reduce cognitive loads and make it more accessible.
+1. The selection interaction is forgiving for spatial positioning errors. This is because a 3D hand span is interpreted through a 1D angle range (a 1D subspace in the polar coordinate system of 2D projection space, which is a subspace of the 3D space of the experience, respectively). It prevents false positives and makes it easy for users to execute. Precise muscle coordination is not required, either. Design tip: lower the dimensionality of your interaction to reduce cognitive loads and make it more accessible.
 
-3. Using depth-based animations to show different UI states is a great way to leverage the third dimension and add something interesting to the experience. But be careful. When the UI faces a user's face, the contrast in the motion might be low, so use it only as an additional layer. In this prototype, color coding is the primary way to mark changes in a UI state.
+1. Using depth-based animations to show different UI states is a great way to leverage the third dimension and add something interesting to the experience. But be careful. When the UI faces a user's face, the contrast in the motion might be low, so use it only as an additional layer. In this prototype, color coding is the primary way to mark changes in a UI state.
 
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/178_spatial_circular_menu.zip)
-- [Learn More](https://twitter.com/Volorf/status/1777266988110205433)
+- [Learn More](https://x.com/Volorf/status/1777266988110205433)
 
 ## Circular Menu 2
 
@@ -237,3 +239,24 @@ Plus, this particular pattern allows you to expose the names of the items, which
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/183_spatial_circular_menu_2.zip)
 - [Learn More](https://x.com/Volorf/status/1797916340684022157)
+
+## Pie Menu 3
+
+<img src="Images/186_spatial_pie_menu.gif" width="800px">
+
+Here is another experiment with a spatial pie menu. This time, I tried to see how different types of buttons would interact with each other. 
+
+In this prototype, there are three types:
+
+1. **Action Button**. Invokes some functions of the system. `Media`, `Settings`, `Apple Intelligence`;
+
+1. **Binary Toggle**. Changes the state of the system and reflects the changes. `Passthrough Mode On/Off`, `Mute/Unmute`;
+
+1. **App Button**. Incapsulates some system functions inside itself, reflecting its states. `Recorder`. 
+
+Observation: Reducing the dimensions of interaction is the simplest way to increase its accessibility and decrease the number of possible error cases. Using polar coordinates in the pie menu allows you to restrict the item selection to angular movement (1D) and control the selection states (hover, selected, active, default) with radius (1D), which makes the interaction easier and more forgiving to perform (compare it to Quest OS's action menu with 2D selection approach).
+
+Also, the Pie Menu is idle when the radius between the center of the menu and your pinch position projected on the UI is under a certain threshold. This helps prevent false positive selections when you accidentally trigger the menu or change your mind.
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/186_spatial_pie_menu.zip)
+- [Learn More](https://x.com/Volorf/status/1810253827695579243)

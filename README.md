@@ -10,7 +10,6 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
 | <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | |
 
-
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
 - [Keypad with Eye and Hand Tracking 2](#keypad-with-eye-and-hand-tracking-2)

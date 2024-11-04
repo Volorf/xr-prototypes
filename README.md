@@ -8,7 +8,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="240px" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="240px" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="240px" /> |
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
 | <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
-| <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | |
+| <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="240px" /> |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
@@ -24,6 +24,8 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Circular Menu 2](#circular-menu-2)
 - [Pie Menu 3](#pie-menu-3)
 - [Spatial Knob II](#spatial-knob-ii)
+- [Spatial Knob III](#spatial-knob-iii)
+
 
 ## How to install an apk
 The simplest way to do it is to intall the apps via [Meta Quest Developer Hub](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/).
@@ -268,3 +270,16 @@ Tried to go "Plus Ultra" with my previous knob concept and make it show values b
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/192_spatial_knob_II.zip)
 - [Learn More](https://x.com/Volorf/status/1847204498512466266)
+
+## Spatial Knob III
+
+<img src="Images/192_spatial_rgb_knob_iii.gif" width="800px">
+
+Thought about leveraging the third dimension (depth) and stacking several different sliders to get multimode input in a compact form. 
+
+This approach works well with naturally distinguished properties like RGB channels that are easy to visualize based on their innate semantic traits (color coding, in our case: red channel represented by red, green by green, etc.) to quickly identify in which mode you are.
+
+Another example is a controller for cold/hot water. It can be a good candidate for this type of interaction since cold/hot labeling has a strong convention around its semantics (red for hot, blue for cold).
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/192_spatial_knob_III.zip)
+- [Learn More](https://x.com/Volorf/status/1853398212574396849)

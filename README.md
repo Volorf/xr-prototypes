@@ -138,7 +138,8 @@ Several things are worth considering when you design spatial interactions like t
 
 So, it's a very powerful pattern but use it wisely!
 
-- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/150_fingertip_menu.zip)
+- [Download APK (VR)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/150_fingertip_menu.zip)
+- [Download APK (AR)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/194_finger_menu_ar.zip)
 - [Learn More](https://www.linkedin.com/posts/oleg-frolov-6a6a4752_xr-vr-interactiondesign-activity-7122512743974191104-ePy-?utm_source=share&utm_medium=member_desktop)
 
 

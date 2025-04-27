@@ -25,6 +25,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Pie Menu 3](#pie-menu-3)
 - [Spatial Knob II](#spatial-knob-ii)
 - [Spatial Knob III](#spatial-knob-iii)
+- [AR Camera Portal and DualSense](#ar-camera-portal-and-dualsense)
 
 
 ## How to install an apk
@@ -284,3 +285,11 @@ Another example is a controller for cold/hot water. It can be a good candidate f
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/192_spatial_knob_III.zip)
 - [Learn More](https://x.com/Volorf/status/1853398212574396849)
+
+## AR Camera Portal and DualSense
+
+<img src="Images/213_dualsense_and_ar_camera_portal.gif" width="800px">
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/213_dualsense_and_ar_camera_portal.zip)
+- [Learn More](#)
+

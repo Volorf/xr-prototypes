@@ -9,6 +9,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
 | <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
 | <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="240px" /> |
+| <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" width="240px" /> | <a href="#"><img src="" /> | <a href="#"><img src="" /> |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
@@ -290,6 +291,22 @@ Another example is a controller for cold/hot water. It can be a good candidate f
 
 <img src="Images/213_dualsense_and_ar_camera_portal.gif" width="800px">
 
+### 🎮 Key Bindings
+- **Left Stick**: Move Character
+- **Right Stick**: Move Camera
+- **Left Shoulder**: Minimize AR Display
+- **Right Shoulder**: Maximize AR Display
+- **X**: Fire
+
+Made a prototype for the AR Camera Portal with a DualSense controller. For previous prototypes with custom controllers, I calculated the positioning of the portal based on hand-tracking data. So, expectably, it worked very well with a mainstream controller, too.
+
+One of the most challenging parts of designing UX in AR/VR is to figure out where to place interfacing elements relative to a user and its environment.
+
+When you design for mobile or web, usually you don't need to think about spatial positioning of UI because it's a concern of the user and a displaying device. They can position UI in a way they want. They can lie on a bed holding a phone, sit on a rock with a laptop on their laps, or do whatever they find comfortable and suitable for their context.
+
+What do they use to position their phone or laptop? They use their own body! 
+
+I like that the prototype allows us to leverage an interaction pattern we have always taken for granted: using the whole body to structure interaction systems. Such an approach with physical input systems providing haptic feedback and AR/VR displaying devices with no coverage limits makes it truly magical. I want to see something like this on VisionOS and Quest as a part of the core system experience.
+
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/213_dualsense_and_ar_camera_portal.zip)
 - [Learn More](#)
-

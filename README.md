@@ -309,4 +309,4 @@ What do they use to position their phone or laptop? They use their own body!
 I like that the prototype allows us to leverage an interaction pattern we have always taken for granted: using the whole body to structure interaction systems. Such an approach with physical input systems providing haptic feedback and AR/VR displaying devices with no coverage limits makes it truly magical. I want to see something like this on VisionOS and Quest as a part of the core system experience.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/213_dualsense_and_ar_camera_portal.zip)
-- [Learn More](#)
+- [Learn More](https://x.com/Volorf/status/1916777746224533700)

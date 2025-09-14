@@ -9,7 +9,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
 | <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
 | <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="240px" /> |
-| <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" width="240px" /> | | |
+| <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" width="240px" /> | <a href="#volumeui-model-panel"><img src="Images/volumeui_modal_panel.gif" width="240px" /> | |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
@@ -27,6 +27,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Spatial Knob II](#spatial-knob-ii)
 - [Spatial Knob III](#spatial-knob-iii)
 - [AR Camera Portal and DualSense](#ar-camera-portal-and-dualsense)
+- [VolumeUI Modal Panel](#volumeui-model-panel)
 
 
 ## How to install an apk
@@ -310,3 +311,11 @@ I like that the prototype allows us to leverage an interaction pattern we have a
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/213_dualsense_and_ar_camera_portal.zip)
 - [Learn More](https://x.com/Volorf/status/1916777746224533700)
+
+
+## VolumeUI Modal Panel
+
+<img src="Images/volumeui_modal_panel.gif" width="800px">
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/volumeui_modal_panel_demo.zip)
+- [Learn More](https://x.com/Volorf/)

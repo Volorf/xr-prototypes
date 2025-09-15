@@ -315,6 +315,8 @@ I like that the prototype allows us to leverage an interaction pattern we have a
 
 ## VolumeUI Modal Panel
 
+A demo for my VolumeUI library. Button Interaction.
+
 <img src="Images/volumeui_modal_panel.gif" width="800px">
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/volumeui_modal_panel_demo.zip)

@@ -3,13 +3,13 @@
 A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`, `Quest 3`, `Qeust Pro`]. All apk files are in the `Builds` folder.
 
 
-| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="240px" /></a> | <a href="#keypad-with-eye-and-hand-tracking"><img src="Images/156_keypad_with_eye_tracking.gif" width="240px" /></a> | <a href="#keypad-with-eye-and-hand-tracking-2"><img src="Images/156_keypad_with_eye_tracking_2.gif" width="240px" /></a> |
+| <a href="#numeric-keyboard-with-eye-tracking"><img src="Images/154_numeric_keyboard_with_eye_tracking.gif" width="100%" /></a> | <a href="#keypad-with-eye-and-hand-tracking"><img src="Images/156_keypad_with_eye_tracking.gif" width="100%" /></a> | <a href="#keypad-with-eye-and-hand-tracking-2"><img src="Images/156_keypad_with_eye_tracking_2.gif" width="100%" /></a> |
 | - | - | - |
-| <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="240px" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="240px" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="240px" /> |
-| <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="240px" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="240px" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="240px" /> |
-| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="240px" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="240px" /> |
-| <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="240px" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="240px" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="240px" /> |
-| <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" width="240px" /> | | |
+| <a href="#palm-menu"><img src="Images/150_palm_menu.gif" width="100%" /> | <a href="#fingertips-menu"><img src="Images/150_fingertip_menu.gif" width="100%" /> | <a href="#xr-arrows"><img src="Images/174_spatial_arrows.gif" width="100%" /> |
+| <a href="#spatial-bouncing-dvds"><img src="Images/161_spatial_bouncing_dvds.gif" width="100%" /> | <a href="#horizontal-finger-menu"><img src="Images/162_finger_menu_horizaontal_2.gif" width="100%" /> | <a href="#vertical-finger-menu"><img src="Images/164_finger_menu_vertical.gif" width="100%" /> |
+| <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="100%" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="100%" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="100%" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width=v /> |
+| <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="100%" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="100%" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="100%" /> |
+| <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" height="100%" /> | <a href="#volumeui-modal-panel"><img src="Images/volumeui_modal_panel.gif" width="100%" /> | <a href="#voxel-creation"><img src="Images/voxel_creation.gif" width="100%" /> |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
@@ -27,6 +27,8 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Spatial Knob II](#spatial-knob-ii)
 - [Spatial Knob III](#spatial-knob-iii)
 - [AR Camera Portal and DualSense](#ar-camera-portal-and-dualsense)
+- [VolumeUI Modal Panel](#volumeui-modal-panel)
+- [Voxel Creation](#voxel-creation)
 
 
 ## How to install an apk
@@ -310,3 +312,35 @@ I like that the prototype allows us to leverage an interaction pattern we have a
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/213_dualsense_and_ar_camera_portal.zip)
 - [Learn More](https://x.com/Volorf/status/1916777746224533700)
+
+
+## VolumeUI Modal Panel
+
+A demo for my VolumeUI library. Button Interaction.
+
+<img src="Images/volumeui_modal_panel.gif" width="800px">
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/volumeui_modal_panel_demo.zip)
+- [Learn More](https://x.com/Volorf/)
+
+## Voxel Creation
+
+<img src="Images/voxel_creation.gif" width="800px">
+
+I've been working on BoxelXR as my pet project for over 5 years. BoxelXR was released 2.5 years ago, and since then, I have gotten many comments about adding hand-tracking. I've been exploring this for many years, and now I've decided to bring it to this app finally.
+
+The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like [Blender](https://www.blender.org/), when you work with 3D face-extrusion. Obviously, [MagicaVoxel](https://ephtracy.github.io/), which is my primary source of inspiration for this project, has it too, 
+
+[The original BoxelXR on Meta Quest Store (with controllers)](https://www.meta.com/experiences/5815420721867244/
+).
+
+💡 For everyone who is wondering how I did it:<br/>
+1️⃣ I used Unity3D + C#;<br/>
+2️⃣ It's running on Meta Quest 3;<br/>
+3️⃣ I used XR Interaction Toolkit to communicate with the device's API and get all hand-tracking data;<br/>
+4️⃣ The interactions themselves are pure math essentially.
+
+📐 If you are curious about what math I use to design such things, [I wrote an article for you, where I explain this](https://medium.com/@olegfrolov/essential-math-for-spatial-computing-f7df7ea6c413).
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/voxel_creation_demo.zip)
+- [Learn More](https://x.com/Volorf/status/1987816407287935350)

@@ -342,5 +342,5 @@ The main mechanics are similar ("recognition over recall" UX principle!) to what
 
 📐 If you are curious about what math I use to design such things, [I wrote an article for you, where I explain this](https://medium.com/@olegfrolov/essential-math-for-spatial-computing-f7df7ea6c413).
 
-- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/voxel_creation_demo.zip)
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/voxel_creation.zip)
 - [Learn More](https://x.com/Volorf/status/1987816407287935350)

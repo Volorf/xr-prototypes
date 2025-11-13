@@ -329,7 +329,7 @@ A demo for my VolumeUI library. Button Interaction.
 
 I've been working on BoxelXR as my pet project for over 5 years. BoxelXR was released 2.5 years ago, and since then, I have gotten many comments about adding hand-tracking. I've been exploring this for many years, and now I've decided to bring it to this app finally.
 
-The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like Blender, when you work with 3D face-extrusion. Obviously, MagicaVoxel, which is my primary source of inspiration for this project, has it too, 
+The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like [Blender](https://www.blender.org/), when you work with 3D face-extrusion. Obviously, [MagicaVoxel](https://ephtracy.github.io/), which is my primary source of inspiration for this project, has it too, 
 
 [The original BoxelXR on Meta Quest Store (with controllers)](https://www.meta.com/experiences/5815420721867244/
 ).

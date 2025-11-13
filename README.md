@@ -329,15 +329,15 @@ A demo for my VolumeUI library. Button Interaction.
 
 I've been working on BoxelXR as my pet project for over 5 years. BoxelXR was released 2.5 years ago, and since then, I have gotten many comments about adding hand-tracking. I've been exploring this for many years, and now I've decided to bring it to this app finally.
 
-The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like Blender, when you work with 3D face-extrusion. Obviously, MagicaVoxel has it too.
+The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like Blender, when you work with 3D face-extrusion. Obviously, MagicaVoxel, which is my primary source of inspiration for this project, has it too, 
 
-[The original BoxelXR on Meta Quest Store](https://www.meta.com/experiences/5815420721867244/
+[The original BoxelXR on Meta Quest Store (with controllers)](https://www.meta.com/experiences/5815420721867244/
 ).
 
-💡 For everyone who is wondering how I did it:
-1️⃣ I used Unity3D + C#;
-2️⃣ It's running on Meta Quest 3;
-3️⃣ I used XR Interaction Toolkit to communicate with the device's API and get all hand-tracking data;
+💡 For everyone who is wondering how I did it:<br/>
+1️⃣ I used Unity3D + C#;<br/>
+2️⃣ It's running on Meta Quest 3;<br/>
+3️⃣ I used XR Interaction Toolkit to communicate with the device's API and get all hand-tracking data;<br/>
 4️⃣ The interactions themselves are pure math essentially.
 
 📐 If you are curious about what math I use to design such things, [I wrote an article for you, where I explain this](https://medium.com/@olegfrolov/essential-math-for-spatial-computing-f7df7ea6c413).

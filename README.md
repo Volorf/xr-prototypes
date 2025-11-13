@@ -28,6 +28,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [Spatial Knob III](#spatial-knob-iii)
 - [AR Camera Portal and DualSense](#ar-camera-portal-and-dualsense)
 - [VolumeUI Modal Panel](#volumeui-modal-panel)
+- [Voxel Creation](#voxel-creation)
 
 
 ## How to install an apk
@@ -321,3 +322,25 @@ A demo for my VolumeUI library. Button Interaction.
 
 - [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/volumeui_modal_panel_demo.zip)
 - [Learn More](https://x.com/Volorf/)
+
+## Voxel Creation
+
+<img src="Images/voxel_creation.gif" width="800px">
+
+I've been working on BoxelXR as my pet project for over 5 years. BoxelXR was released 2.5 years ago, and since then, I have gotten many comments about adding hand-tracking. I've been exploring this for many years, and now I've decided to bring it to this app finally.
+
+The main mechanics are similar ("recognition over recall" UX principle!) to what you can find in other 3D editors like Blender, when you work with 3D face-extrusion. Obviously, MagicaVoxel has it too.
+
+[The original BoxelXR on Meta Quest Store](https://www.meta.com/experiences/5815420721867244/
+).
+
+💡 For everyone who is wondering how I did it:
+1️⃣ I used Unity3D + C#;
+2️⃣ It's running on Meta Quest 3;
+3️⃣ I used XR Interaction Toolkit to communicate with the device's API and get all hand-tracking data;
+4️⃣ The interactions themselves are pure math essentially.
+
+📐 If you are curious about what math I use to design such things, [I wrote an article for you, where I explain this](https://medium.com/@olegfrolov/essential-math-for-spatial-computing-f7df7ea6c413).
+
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/voxel_creation_demo.zip)
+- [Learn More](https://x.com/Volorf/status/1987816407287935350)

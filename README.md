@@ -349,7 +349,7 @@ The main mechanics are similar ("recognition over recall" UX principle!) to what
 
 ## Interactive Surfaces
 
-Exploration of spacial hover effects.
+Exploration of spatial hover effects.
 
 <img src="Images/touchable_interactive_surfaces.gif" width="800px">
 

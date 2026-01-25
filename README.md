@@ -10,7 +10,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 | <a href="#depth-finger-menu"><img src="Images/173_finger_menu_depth.gif" width="100%" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width="100%" /> | <a href="#circular-menu-2"><img src="Images/183_spatial_circular_menu_2.gif" width="100%" /> | <a href="#circular-menu"><img src="Images/178_spatial_circular_finger_menu.gif" width=v /> |
 | <a href="#pie-menu-3"><img src="Images/186_spatial_pie_menu.gif" width="100%" /> | <a href="#spatial-knob-ii"><img src="Images/192_spatial_knob_II.gif" width="100%" /> | <a href="#spatial-knob-iii"><img src="Images/192_spatial_rgb_knob_iii.gif" width="100%" /> |
 | <a href="#ar-camera-portal-and-dualsense"><img src="Images/213_dualsense_and_ar_camera_portal.gif" height="100%" /> | <a href="#volumeui-modal-panel"><img src="Images/volumeui_modal_panel.gif" width="100%" /> | <a href="#voxel-creation"><img src="Images/voxel_creation.gif" width="100%" /> |
-| <a href="#interactive-surfaces"><img src="Images/touchable_interactive_surfaces.gif" height="100%" /> | | |
+| <a href="#interactive-surfaces"><img src="Images/touchable_interactive_surfaces.gif" height="100%" /> | <a href="#finger-drumming"><img src="Images/225_Finger_Drumming.gif" height="100%" /> | |
 
 - [Numeric Keyboard with Eye Tracking](#numeric-keyboard-with-eye-tracking)
 - [Keypad with Eye and Hand Tracking](#keypad-with-eye-and-hand-tracking)
@@ -31,6 +31,7 @@ A collection of my XR prototypes as apk files for Meta Quest devices [`Quest 2`,
 - [VolumeUI Modal Panel](#volumeui-modal-panel)
 - [Voxel Creation](#voxel-creation)
 - [Interactive Surfaces](#interactive-surfaces)
+- [Finger Drumming](#finger-drumming)
 
 
 ## How to install an apk
@@ -349,10 +350,28 @@ The main mechanics are similar ("recognition over recall" UX principle!) to what
 
 ## Interactive Surfaces
 
-Exploration of spatial hover effects.
-
 <img src="Images/touchable_interactive_surfaces.gif" width="800px">
+
+Exploration of spatial hover effects.
 
 - [Download APK (Left)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/touchable_interactive_surface_0.zip)
 - [Download APK (Right)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/touchable_interactive_surface_1.zip)
 - [Learn More](https://x.com/Volorf/status/1999429292934021150)
+
+## Finger Drumming
+
+<img src="Images/225_Finger_Drumming.gif" width="800px">
+
+A while ago, I made a few prototypes while exploring different navigation patterns with finger-based interactions. Thought some of these ideas would work well as a musical instrument (or as an input system that drives the MIDI communication). 
+
+The idea itself is quite promising and might work in independent OS systems, but unfortunately, right now it won’t work on mainstream XR OSs (VisionOS, Quest) since the palm-facing index pinch is reserved for calling the system menu (in the demo, you can hear the kick overlapping with the Quest’s system sound).
+
+Anyway, I hope one day to see a band performing a song by mixing hand gestures and body movement with choreography in a holistic dance. That is, a holistic dance.
+
+**Engine:** Unity3D + C# <br/>
+**Samples:** OP-12 <br/>
+**Synth:** Orchid <br/>
+**Song:** “Everything Is Going According To The Plan.” <br/>
+
+- [Download APK (Left)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/finger_drums.zip)
+- [Learn More](https://x.com/Volorf/)

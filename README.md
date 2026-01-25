@@ -373,5 +373,5 @@ Anyway, I hope one day to see a band performing a song by mixing hand gestures a
 **Synth:** Orchid <br/>
 **Song:** “Everything Is Going According To The Plan.” <br/>
 
-- [Download APK (Left)](https://github.com/Volorf/xr-prototypes/blob/main/Builds/finger_drums.zip)
+- [Download APK](https://github.com/Volorf/xr-prototypes/blob/main/Builds/finger_drums.zip)
 - [Learn More](https://x.com/Volorf/)

@@ -364,7 +364,7 @@ Exploration of spatial hover effects.
 
 A while ago, I made a few prototypes while exploring different navigation patterns with finger-based interactions. Thought some of these ideas would work well as a musical instrument (or as an input system that drives the MIDI communication). 
 
-The idea itself is quite promising and might work in independent OS systems, but unfortunately, right now it won’t work on mainstream XR OSs (VisionOS, Quest) since the palm-facing index pinch is reserved for calling the system menu (in the demo, you can hear the kick overlapping with the Quest’s system sound).
+The idea itself is quite promising and might work in independent operating systems, but unfortunately, right now it won’t work on mainstream XR OSs (VisionOS, Quest) since the palm-facing index pinch is reserved for calling the system menu (in the demo, you can hear the kick overlapping with the Quest’s system sound).
 
 Anyway, I hope one day to see a band performing a song by mixing hand gestures and body movement with choreography in a holistic dance. That is, a holistic dance.
 
